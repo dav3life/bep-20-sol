@@ -1,1 +1,1 @@
-# bep-20-sol
+Solidity binance smart chain practice and examples 
